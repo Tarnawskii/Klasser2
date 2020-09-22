@@ -1,7 +1,7 @@
 import static Objekter_Klasser.Sirkel.*;
 
 public class Oblig1Oppgave1 {
-
+//kommmentar om bla bla bla
 
     public static void main(String[] args) {
         double r = 23.5;
