@@ -1,8 +1,9 @@
 import javax.swing.*;
 
-public class Oblig1Oppgave3 {
+public class Oblig1Oppgave2 {
 
     public static void main(String[] args) {
+
 
         String invare1navn = JOptionPane.showInputDialog("Hva er navnet på varen?");
         String invare1antall = JOptionPane.showInputDialog("Hva er antallet?");
